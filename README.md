@@ -1,2 +1,3 @@
 # MyProject
  Индивидуальный проект по теме: ...
+ ![Логотип](https://w.forfun.com/fetch/cb/cb4dd538e469bc21a277eb433190fef9.jpeg "Логотип GitHub")
